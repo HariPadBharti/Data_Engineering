@@ -2,7 +2,7 @@
 
 Step-By-Step Data Engineering on a small Data Source to get valuable information out of data.
 
-- [x] Step 1: Select a source of data - Informational blog/ resource for other resources.
+- [x] Step 1: Select a source of data - Informational blog/ resource for other resources or creation of sources
 - [] Step 2: Scrape data from Step 1, use best practises and ingest data to the cloud system.
 - [] Step 3: Apply modelling on the data, learn from outputs and reapply on other sources to get valued results.
 - [] Step 4: Analysis of the results. 
