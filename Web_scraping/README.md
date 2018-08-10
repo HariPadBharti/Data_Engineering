@@ -1,4 +1,5 @@
 
 
-# Web Scraping using Beautiful Soup
-Note: This work is for educational and research purpose and doen't intent to violate any copyright of content, and is not done for any commercial usage.
+### Web Scraping using Beautiful Soup
+
+<h4>Note: This work is for educational research purpose and doen't intent to violate any copyright of contents. Moreover, this work is not done for any commercial usage and should not be used for the same. </h4>
